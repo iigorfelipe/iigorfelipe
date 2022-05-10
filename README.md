@@ -1,4 +1,4 @@
-<a href="https://www.linkedin.com/in/igor-f-738660210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/iigor-felipe/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <div align-items="center">
   <a href="https://github.com/iigorfelipe">
   <img height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iigorfelipe&layout=compact&langs_count=7&theme=dark"/>
