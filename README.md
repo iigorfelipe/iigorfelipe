@@ -12,7 +12,7 @@
 <p align="left">
 <div align-items="center">
   <a href="https://github.com/iigorfelipe">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iigorfelipe&layout=compact&langs_count=7&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iigorfelipe&layout=compact&langs_count=10&theme=dark"/>
 </div>
 
 ##
